@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences : I'm currently in second year at Ynov Paris Campus , learning multiple language like Golang, python , java or even Frontend
 
-- ⚡ Fun fact **I really like to make video game with Unity but I'm terrible at making good design so they are all playable but ugly like really ugly xD**
+- ⚡ Fun fact **I really like to make video game with Unity but I'm terrible at making good design so they are all playable but ugly xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
