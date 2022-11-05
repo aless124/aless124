@@ -16,7 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aless124)](https://git.io/streak-stats)
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="aless124" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
