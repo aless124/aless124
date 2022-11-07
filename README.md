@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p></p>
 
+<p><img src = "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt ="aless124"> </p>
 
 <h3 align= "center"> 🔥 Streak Stats </h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aless124&theme=algolia" alt="aless124" /></p>
