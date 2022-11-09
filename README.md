@@ -16,6 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p></p>
 
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/aless124/)
+
 <p><img src = "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt ="aless124"> </p>
 
 <h3 align= "center"> 🔥 Streak Stats </h3>
