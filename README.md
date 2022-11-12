@@ -16,14 +16,14 @@
 <h3 align="left">Connect with me:</h3>
 <p></p>
 
-[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/aless124/)
 
 <p><img src = "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt ="aless124"> </p>
 
 <h3 align= "center"> 🔥 Streak Stats </h3>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aless124&theme=algolia" alt="aless124" /></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aless124&show_icons=true&theme=dark&locale=fr" alt="aless124" /></p>
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aless124&theme=algolia" alt="aless124" />
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aless124&theme=dark"</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aless124&show_icons=true&theme=dark&locale=fr" alt="aless124" />
+</p>
 <h3 align="center">Languages and Tools: </h3>
 
 
@@ -34,5 +34,5 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-
+[![For Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
