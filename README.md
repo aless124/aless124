@@ -9,7 +9,7 @@
 
 - 💬 Ask me about : **Python and Unity**
 
-- 📫 How to reach me : **aless#8622 on discord**
+- 📫 How to reach me : **aless1#8622 on discord**
 
 - 📄 Know about my experiences : I'm currently in second year at Ynov Paris Campus , learning multiple language like Golang, python , java or even Frontend
 
