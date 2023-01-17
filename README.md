@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on : 3to1 (yeah it's the name of the game ) 
 
-- before I was working on [Linkun](https://github.com/aless124/Game-off-Linkun)
+- before I was working on [Linkun](https://github.com/aless124/Game-off-Linkun) 
 
 - 🌱 I’m currently learning : **C#, unity, python, data and maybe IA later**
 
 - 💬 Ask me about : **Python and Unity**
 
-- 📫 How to reach me : **alessfara28@gmail.com**
+- 📫 How to reach me : **aless#8622 on discord**
 
 - 📄 Know about my experiences : I'm currently in second year at Ynov Paris Campus , learning multiple language like Golang, python , java or even Frontend
 
