@@ -25,7 +25,7 @@
 <h3 align= "center"> 🔥 Streak Stats </h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aless124&theme=algolia" alt="aless124" />
 <img src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aless124&theme=dark&layout=compact"</p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aless124&show_icons=true&theme=dark&locale=fr" alt="aless124" />
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aless124&show_icons=true&theme=dark&locale=fr" alt="aless124" />
 </p>
 <h3 align="center">Languages and Tools: </h3>
 
