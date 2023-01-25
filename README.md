@@ -24,7 +24,7 @@
 
 <h3 align= "center"> 🔥 Streak Stats </h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aless124&theme=algolia" alt="aless124" /> <br>
-<img src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aless124&langs_count=3&theme=dark&hide=jupyter%20notebook,ASP.NET,ShaderLab"</p>
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aless124&langs_count=3&theme=dark&hide=jupyter%20notebook,ASP.NET,ShaderLab"</p>
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aless124&show_icons=true&theme=dark&locale=fr" alt="aless124" />![image](https://user-images.githubusercontent.com/94045435/214327278-77007a42-a108-4156-adb3-f3fff6bac551.png)
 
 </p>
