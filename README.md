@@ -16,8 +16,7 @@
 - ⚡ Fun fact **I really like to make video game with Unity but I'm terrible at making good design so they are all playable but ugly xD**
 
 <h3 align="left">Connect with me:</h3>
-<p> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </p>
-<p><img src = "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt ="aless124"> <img src = "https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" ></p>
+<p> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> <img src = "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt ="aless124"> <img src = "https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" ></p>
 
 
 
