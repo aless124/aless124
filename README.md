@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alessandro FARAJALLAH alias aless124</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on : [3to1](https://github.com/aless124/3to1) (yeah it's the name of the game ) 
+- 🔭 I’m currently working on : 
 
-- before I was working on [Linkun](https://github.com/aless124/Game-off-Linkun) 
+- before I was working on [3to1](https://github.com/aless124/3to1) (yeah it's the name of the game ) and [Linkun](https://github.com/aless124/Game-off-Linkun) 
 
 - 🌱 I’m currently learning : **C#, unity, python, data and maybe IA later**
 
