@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alessandro FARAJALLAH alias aless124</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on :  
+- 🔭 I’m currently working on :  A discord bot an a Unity Project  
 
 - before I was working on [3to1](https://github.com/aless124/3to1) (yeah it's the name of the game ) and [Linkun](https://github.com/aless124/Game-off-Linkun) 
 
