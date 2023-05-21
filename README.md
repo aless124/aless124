@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on :  A new Unity Project  
 
-- before I was working on A discord bot and [Linkun](https://github.com/aless124/Game-off-Linkun) 
+- before I was working on A [discord bot](https://github.com/aless124/Discord_Bot) and [Linkun](https://github.com/aless124/Game-off-Linkun) 
 
 - 🌱 I’m currently learning : **C#, unity, python, data and maybe IA later**
 
