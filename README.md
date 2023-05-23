@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alessandro FARAJALLAH alias aless124</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on :  A new Unity Project  
+- 🔭 I’m currently working on :  A new [Unity Project](https://github.com/aless124/LittleRPG)
 
 - before I was working on a [discord bot](https://github.com/aless124/Discord_Bot) and [Linkun](https://github.com/aless124/Game-off-Linkun) 
 
